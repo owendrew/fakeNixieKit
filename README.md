@@ -1,6 +1,6 @@
 # Fake Nixie Clock
+# This document is Work In Progress
 Nixie style clock using ESP32 and ST7789 IPS LCD displays
-This document is Work In Progress
 
 # Main Components
 
