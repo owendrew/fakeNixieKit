@@ -8,7 +8,7 @@ Nixie style clock using ESP32 and ST7789 IPS LCD displays
 - ![ESP32](/images/ESP32.jpg)
   
 - 4 off IPS 1.14 inch TFT LCD IPS display 8 pin Direct Insertion version (not the 13 pin version).  Additonal pictures show basic LCD assembly as well as what a full fake nixie tube could look like with the 3D printed components and glass domes
-- ![LCD](/images/LCD.jpg) ![LCDAssyFront](images/PCB_Assy_Front.jpg) ![LCDAssyRear](images/PCB_Assy_Rear.jpg)
+- ![LCD](/images/LCD.jpg) 
 
 - 4 off LCD Adapter boards - FPC FFC Cable 8 PIN 0.5mm pitch Connector to 2x4 pin 2.54 mm pitch through hole DIP PCB.  Image of these PCBs is provided below under PCBs
   
@@ -55,8 +55,19 @@ All components available from Aliexpress, Ebay and electronic stockists
 
 The 2x4 Male Header Pins need to be soldered onto the LCD PCB Adapter boards.  Please study the image below carefully and ensure the pins are soldered on the correct side of the PCB.  If you solder them to the wrong side, the pinouts will not be in line with the Schematics or the Display PCB.
 
-- ![LCDPCBAssy](/images/LCD_PCB_Assy.jpg)
+- ![LCDPCBAssy](/images/LCD_Inserted.jpg)
 
+In its basic form, the LCD can then be bonded to the PCB as pictured below.
+
+- ![LCDAssyFront](images/PCB_Assy_Front.jpg) ![LCDAssyRear](images/PCB_Assy_Rear.jpg)
+
+However, if you would like the "full" Fake Nixie look;
+- the LCD is bonded to the front of the LCD Mount (STL Provided).
+- The LCD flexi circuit is then inserted into the PCB.
+- The PCB is bonded to the back of the 3D Printed LCD Mount.
+- The completed LCD Mount is then bonded into the 3D printed Base
+
+- 
 
 # ESP32 Programming
 Place holder for ESP32 programming
