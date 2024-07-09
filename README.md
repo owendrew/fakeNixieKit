@@ -6,7 +6,7 @@ Nixie style clock using ESP32 and ST7789 IPS LCD displays
 - 1 off ESP32 38 pin version 
 
 - 4 off IPS 1.14 inch TFT LCD IPS display 8 pin Direct Insertion version (not the 13 pin version)
-![LCD](/images/LCD.jpg)
+- ![LCD](/images/LCD.jpg)
 
 - 4 off LCD Adapter boards - FPC FFC Cable 8 PIN 0.5mm pitch Connector to 2x4 pin 2.54 mm pitch through hole DIP PCB
   
