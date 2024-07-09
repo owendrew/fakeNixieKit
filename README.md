@@ -10,7 +10,7 @@ Nixie style clock using ESP32 and ST7789 IPS LCD displays
 - ![LCD](/images/LCD.jpg)
 
 - 4 off LCD Adapter boards - FPC FFC Cable 8 PIN 0.5mm pitch Connector to 2x4 pin 2.54 mm pitch through hole DIP PCB
-- ![LCDPCB](/images/LCDPCB1.jpg) ![LCDPCB](/images/LCDPCB2.jpg)
+- ![LCDPCB](/images/LCDPCB1.jpg)
   
 - 4 off 2x4 right angle male header pins
 - ![LCDPCBHeader](/images/LCDHeader1.jpg)
