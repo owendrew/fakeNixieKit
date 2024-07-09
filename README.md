@@ -31,15 +31,31 @@ All components available from Aliexpress, Ebay and electronic stockists
 # PCBs
 
 The pcbs makes for a tidy build although you can make point to point connections on prototype boards
-- 1 off Display PCB 
+- 1 off Display PCB
+- 
+
 - 1 off ESP32 Controller PCB (This PCB also allows for the addition of buttons and a buzzer.  All the ESP32 pins are broken out as well for any further user development)
+- 
 
 # Optional
 
 - 1 off Enclosure to suit
+- 
+
 - 4 off Glass domes for the nixie effect - 38mm High x 25mm Diameter
+- 
+
 - 4 off 3D printed base to suit glass dome
+-
+
 - 4 off 3D printed LCD/Adpater mount
+-
+
+# LCD Assembly
+Place holder for LCD Assembly build
+
+# ESP32 Programming
+Place holder for ESP32 programming
 
 
 # Disclaimer
