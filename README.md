@@ -37,7 +37,7 @@ The pcbs makes for a tidy build although you can make point to point connections
 - 1 off ESP32 Controller PCB (This PCB also allows for the addition of buttons and a buzzer.  All the ESP32 pins are broken out as well for any further user development)
 - 
 
-# Optional
+# Optional Components
 
 - 1 off Enclosure to suit
 - 
