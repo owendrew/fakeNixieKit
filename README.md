@@ -8,23 +8,12 @@ Nixie style clock using ESP32 and ST7789 IPS LCD displays
 - ![ESP32](/images/ESP32.jpg)
   
 - 4 off IPS 1.14 inch TFT LCD IPS display 8 pin Direct Insertion version (not the 13 pin version).  Additonal pictures show basic LCD assembly as well as what a full fake nixie tube could look like with the 3D printed components and glass domes
-- ![LCD](/images/LCD.jpg)
+- ![LCD](/images/LCD.jpg) ![LCDAssyFront](images/PCB_Assy_Front.jpg) ![LCDAssyRear](images/PCB_Assy_Rear.jpg)
 
-- 4 off LCD Adapter boards - FPC FFC Cable 8 PIN 0.5mm pitch Connector to 2x4 pin 2.54 mm pitch through hole DIP PCB
-- ![LCDPCB](/images/LCDPCB1.jpg)
+- 4 off LCD Adapter boards - FPC FFC Cable 8 PIN 0.5mm pitch Connector to 2x4 pin 2.54 mm pitch through hole DIP PCB.  Image of these PCBs is provided below under PCBs
   
 - 4 off 2x4 right angle male header pins
 - ![LCDPCBHeader](/images/2x4MHeader.jpg)
-
-- 4 off 2x4 female header sockets (2,54mm pitch)
-  
-- 2 off 1x10 male header pins (2,54mm pitch)
-  
-- 10 off dupont female to female wires (these can come purchase as a ribbon of cables)
-  
-- 1 off micro USB PSU
-
-All components available from Aliexpress, Ebay and electronic stockists
 
 
 
@@ -39,6 +28,17 @@ The pcbs makes for a tidy build although you can make point to point connections
 
 # Optional Components
 
+- 4 off 2x4 female header sockets (2,54mm pitch)
+  
+- 2 off 1x10 male header pins (2,54mm pitch)
+  
+- 10 off dupont female to female wires (these can come purchase as a ribbon of cables)
+  
+- 1 off micro USB PSU
+
+All components available from Aliexpress, Ebay and electronic stockists
+
+
 - 1 off Enclosure to suit
 - 
 
@@ -52,7 +52,11 @@ The pcbs makes for a tidy build although you can make point to point connections
 -
 
 # LCD Assembly
-Place holder for LCD Assembly build
+
+The 2x4 Male Header Pins need to be soldered onto the LCD PCB Adapter boards.  Please study the image below carefully and ensure the pins are soldered on the correct side of the PCB.  If you solder them to the wrong side, the pinouts will not be in line with the Schematics or the Display PCB.
+
+- ![LCDPCBAssy](/images/LCD_PCB_Assy.jpg)
+
 
 # ESP32 Programming
 Place holder for ESP32 programming
