@@ -13,7 +13,7 @@ Nixie style clock using ESP32 and ST7789 IPS LCD displays
 - ![LCDPCB](/images/LCDPCB1.jpg)
   
 - 4 off 2x4 right angle male header pins
-- ![LCDPCBHeader](/images/LCDHeader1.jpg)
+- ![LCDPCBHeader](/images/2x4MHeader.jpg)
 
 - 4 off 2x4 female header sockets (2,54mm pitch)
   
