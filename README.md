@@ -4,7 +4,6 @@ Nixie style clock using ESP32 and ST7789 IPS LCD displays
 # Main Components
 
 - 1 off ESP32 38 pin version
-  [/main/images/20240328_095946.jpg]
 - 4 off IPS 1.14 inch TFT LCD IPS display 8 pin Direct Insertion version (not the 13 pin version)
 - 4 off LCD Adapter boards - FPC FFC Cable 8 PIN 0.5mm pitch Connector to 2x4 pin 2.54 mm pitch through hole DIP PCB
 - 4 off 2x4 right angle male header pins 
@@ -14,6 +13,8 @@ Nixie style clock using ESP32 and ST7789 IPS LCD displays
 - 1 off micro USB PSU
 
 All components available from Aliexpress, Ebay and electronic stockists
+
+![LCD](/images/20240328_095946.jpg)
 
 # PCBs
 
