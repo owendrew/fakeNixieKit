@@ -7,7 +7,7 @@ Nixie style clock using ESP32 and ST7789 IPS LCD displays
 - 1 off ESP32 38 pin version 
 - ![ESP32](/images/ESP32.jpg)
   
-- 4 off IPS 1.14 inch TFT LCD IPS display 8 pin Direct Insertion version (not the 13 pin version)
+- 4 off IPS 1.14 inch TFT LCD IPS display 8 pin Direct Insertion version (not the 13 pin version).  Additonal pictures show basic LCD assembly as well as what a full fake nixie tube could look like with the 3D printed components and glass domes
 - ![LCD](/images/LCD.jpg)
 
 - 4 off LCD Adapter boards - FPC FFC Cable 8 PIN 0.5mm pitch Connector to 2x4 pin 2.54 mm pitch through hole DIP PCB
@@ -31,11 +31,11 @@ All components available from Aliexpress, Ebay and electronic stockists
 # PCBs
 
 The pcbs makes for a tidy build although you can make point to point connections on prototype boards
-- 1 off Display PCB
-- 
-
+- 1 off Display PCB 
 - 1 off ESP32 Controller PCB (This PCB also allows for the addition of buttons and a buzzer.  All the ESP32 pins are broken out as well for any further user development)
-- 
+- LCD Adapter PCBs (4 off - 1 for each display)
+ 
+- ![PCBs](/images/PCBs.jpg)
 
 # Optional Components
 
