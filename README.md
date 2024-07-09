@@ -1,6 +1,9 @@
 # Fake Nixie Clock
-# This document is Work In Progress
-Nixie style clock using ESP32 and ST7789 IPS LCD displays
+
+Build a Fake Nixie style clock using ESP32 and ST7789 IPS LCD displays
+
+Please treat this document as "Work In Progress".  I have tried to describe the materials and steps required to build a Fake Nixie style clock.  If you encounter any problems, especially with the programming of the ESP32, please try google, youtube and ChatGPT.  I found the solutions to all the issues I encountered when developing this project there and learnt a considerable amount.
+
 
 # Main Components
 
